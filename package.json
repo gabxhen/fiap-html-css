@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "sass --watch ./assets/scss:./assets/css --style compressed --no-source-map",
-    "git": ""
+    "git": "git add --all && git commit -m 'Deply' && git push origin master"
   },
   "keywords": [],
   "author": "",
