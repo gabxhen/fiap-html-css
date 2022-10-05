@@ -1,0 +1,13 @@
+//push - inserir um item no FINAL do array.
+//pop - remover um item no FINAL do array.
+//shift - remover um item no INICIO do array.
+//unshift - colocar um elemento no INICIO de um array.
+//splice - Remover um INTERVALO (inicio, quantidadeParaRemover) SEGUE A LÓGICA
+//split - pega um texto e transforma em array, como um separador, onde ele quebra split(" ")
+//join - junta os elementos de um array em uma string e retorna essa string.
+
+// Programação funcional - Imutabilidade (Os dados não mudam)
+//slice - retorna uma cópia de parte de um array a partir de um subarray criado entre as posições início e fim (fim não é incluído) de um array original. O Array original não é modificado.
+//map - retorna um novo array com os itens filtrados, array.map(função). ELE VAI PASSAR DO INÍCIO AO FIM. Retorna todas as condições.
+//filter - retorna um novo array com os itens filtrados, vai realizar um filtro e só retorna o que for VERDADEIRO.
+//find - retorna uma string, assim que ele encontrar a condição ele para automaticamente.
